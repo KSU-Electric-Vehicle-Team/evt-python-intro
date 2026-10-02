@@ -1,5 +1,7 @@
 # EVT intro to Python
 
+**[Download the PowerPoint and screenshot walkthrough](https://github.com/KSU-Electric-Vehicle-Team/evt-python-intro/releases/latest)**
+
 A small follow-along exercise: run a script, change a value, fix a speed
 conversion, and test it. Allow about 45 minutes, with Python, Git, VS Code,
 and GitHub sign-in already set up. There are no extra Python packages to install.
